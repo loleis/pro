@@ -22,7 +22,7 @@
     {"key":"html_飞快TV","name":"🌟飞快｜观影","type":3,"api":"csp_飞快TV","homePage":"./html/飞快TV.html"},
     {"key":"html_YouTube","name":"🌟油管｜观影","type":3,"api":"csp_YouTube","homePage":"./html/YouTube.html"},
     {"key":"html_哔哩哔哩","name":"🌟哔哩｜观影","type":3,"api":"csp_blibli","homePage":"./html/哔哩哔哩.html"},
-    {"key":"html_360影视","name":"🌟360｜观影","type":3,"api":"csp_360影视","homePage":"https://cnb.cool/pekgjs/kkkjs/-/git/raw/main/html.json"},
+    {"key":"html_360影视","name":"🌟360｜观影","type":3,"api":"csp_360影视","homePage":"https://codeberg.org/qcfree20260827/html/raw/branch/main/html/360影视.html"},
     {"key":"html_影视库","name":"🌟影视｜观影","type":3,"api":"csp_影视库","homePage":"./html/影视库.html"},
     {"key":"jar_灵虎","name":"♨️灵虎 | 观影","type":3,"api":"csp_AppGet","searchable":1,"changeable":1,"ext":{"host":"https://bind.315999.xyz/89.txt","appkey":"#getapp@TMD@2025","appiv":"#getapp@TMD@2025"}},
     {"key":"jar_豹子","name":"♨️豹子 | 观影","type":3,"api":"csp_AppGet","searchable":1,"changeable":1,"ext":"https://444421.xyz|#getapp@TMD@2025|120"},
